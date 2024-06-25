@@ -112,7 +112,7 @@ aside article{
 
 .aside-text {
     position: relative;
-    bottom: 40px;
+    bottom: 50px;
     left: 10px;
 }
 
@@ -123,6 +123,8 @@ aside article h3 {
 
 
 aside article img {
+    position: relative;
+    bottom: 20px;
     display: block;
     margin: 10px auto;
     max-width: 150px;
