@@ -84,6 +84,15 @@ article {
     color: #ffffff;
 }
 
+article img {
+    max-height: 200px;
+}
+
+article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 aside {
     margin-right: 20px;
     clear: both;
@@ -101,9 +110,10 @@ aside article{
     background-color: rgb(37, 137, 189);
 }
 
-aside article p{
-    position:relative;
-    bottom: 10px;
+.aside-text {
+    position: relative;
+    bottom: 40px;
+    left: 10px;
 }
 
 aside article h3 {
@@ -118,32 +128,6 @@ aside article img {
     max-width: 150px;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 footer {
     padding: 30px;
